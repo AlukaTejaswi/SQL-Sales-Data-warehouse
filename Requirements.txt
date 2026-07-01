@@ -1,0 +1,72 @@
+# SQL Sales Data Warehouse & Business Analytics Project
+# Project Environment Requirements
+
+## Database Requirements
+Microsoft SQL Server >= 2019
+
+## Database Management Tool
+SQL Server Management Studio (SSMS) >= 19
+
+## Programming Language
+T-SQL (Transact-SQL)
+
+## Database Features Used
+- Relational Database Design
+- Stored Procedures
+- Triggers
+- Temporary Tables
+- Common Table Expressions (CTEs)
+- Window Functions
+- Ranking Functions
+- Dynamic SQL
+- Data Validation Queries
+
+## Required SQL Server Database
+Database Name:
+SalesAnalysisDB
+
+## Required Database Objects
+Tables:
+- Customers
+- SalesData
+- Products
+- Category
+- SubCategory
+- Regions
+- ShipMode
+- Returns
+- Segment
+- DateTable
+- Address
+- Reference
+
+## Development Tools (Optional)
+Git >= 2.x
+GitHub Account
+
+## Recommended System Requirements
+Operating System:
+- Windows 10/11
+
+Memory:
+- Minimum 8GB RAM recommended
+
+Storage:
+- Minimum 2GB free space
+
+## Project Setup
+1. Install Microsoft SQL Server
+2. Install SQL Server Management Studio
+3. Create database:
+   SalesAnalysisDB
+4. Execute SQL scripts in the following order:
+   1. Database creation script
+   2. Table creation script
+   3. Data loading script
+   4. Analysis queries
+   5. Stored procedures and triggers
+
+## Future Enhancement Requirements
+- Power BI Desktop (for dashboard development)
+- Python (optional for advanced analytics)
+- Excel (optional for reporting)
